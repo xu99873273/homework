@@ -1,7 +1,5 @@
 package org.spoto.homework;
 
-import java.util.Scanner;
-
 /**
  * <p>Description : Subject10</p>
  * <p>DevelopTools : Idea_2020.01</p>
