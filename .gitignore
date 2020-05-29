@@ -1,6 +1,7 @@
 # ---> Idea
-.idea
-.iml
+*.idea
+*.iml
+out/
 
 # ---> Maven
 target/
