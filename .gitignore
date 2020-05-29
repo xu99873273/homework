@@ -3,6 +3,14 @@
 *.iml
 out/
 
+# ---> Office
+~*.doc
+~*.docx
+~*.ppt
+~*.pptx
+~*.xls
+~*.xlsx
+
 # ---> Maven
 target/
 pom.xml.tag
