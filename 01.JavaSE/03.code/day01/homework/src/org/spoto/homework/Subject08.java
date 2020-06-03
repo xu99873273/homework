@@ -17,7 +17,8 @@ public class Subject08 {
     public static void main(String args[]) {
         int aar[] = {1, 3, 10, 4, 5, 7, 3, 9};
         if (aar.length > 0) {
-            int aar_Max = aar[0], aar_index = 0;
+            int aar_Max = aar[0];
+            int aar_index = 0;
             for (int i = 0; i < aar.length; i++) {
                 if (aar[i] > aar_Max) {
                     aar_Max = aar[i];
