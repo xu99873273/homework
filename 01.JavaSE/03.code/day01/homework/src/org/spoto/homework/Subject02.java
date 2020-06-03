@@ -16,7 +16,9 @@ public class Subject02 {
 
     public static void main(String[] args) {
         // num1：百位 num2:十位 num3：个位
-        int num1, num2, num3;
+        int num1;
+        int num2;
+        int num3;
         // 三位数的立方和
         int sum;
         // 三位数
